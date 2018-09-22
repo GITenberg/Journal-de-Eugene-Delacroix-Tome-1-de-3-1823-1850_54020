@@ -1,5 +1,8 @@
 _repo: Journal-de-Eugene-Delacroix-Tome-1-de-3-1823-1850_54020
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54020-h/images/cover.jpg
 creator:
   author:
     agent_name: Delacroix, Eugène
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '34238'
     url: http://www.gutenberg.org/2009/agents/34238
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54020#Journal-de-Eugene-Delacroix-Tome-1-de-3-1823-1850
 gutenberg_bookshelf:
 - FR Biographie, Mémoires, Journal intime, Correspondance
 - FR Peinture
